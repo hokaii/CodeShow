@@ -1,0 +1,52 @@
+20190914 unit9,*unit9
+20190915 *unit9,unit10,*unit10
+20190916 *unit10,unit11,*unit11
+20190917 *unit9,*unit11,unit12,*unit12
+20190918 *unit10,*unit12,unit13,*unit13
+20190919 *unit11,*unit13,unit14,*unit14
+20190920 *unit9,*unit12,*unit14,unit15,*unit15
+20190921 *unit10,*unit13,*unit15,unit16,*unit16
+20190922 *unit11,*unit14,*unit16,unit17,*unit17
+20190923 *unit12,*unit15,*unit17,unit18,*unit18
+20190924 *unit13,*unit16,*unit18,unit19,*unit19
+20190925 *unit14,*unit17,*unit19,unit20,*unit20
+20190926 *unit15,*unit18,*unit20,unit21,*unit21
+20190927 *unit16,*unit19,*unit21,unit22,*unit22
+20190928 *unit9,*unit17,*unit20,*unit22
+20190929 *unit10,*unit18,*unit21,unit23,*unit23
+20190930 *unit11,*unit19,*unit22,*unit23
+20191001 *unit12,*unit20,unit24,*unit24
+20191002 *unit13,*unit21,*unit23,*unit24
+20191003 *unit14,*unit22,unit25,*unit25
+20191004 *unit15,*unit24,*unit25,unit26,*unit26
+20191005 *unit16,*unit23,*unit26,unit27,*unit27
+20191006 *unit17,*unit25,*unit27,unit28,*unit28
+20191007 *unit18,*unit24,*unit26,*unit28
+20191008 *unit19,*unit27,unit29,*unit29
+20191009 *unit9,*unit20,*unit25,*unit28,*unit29
+20191010 *unit10,*unit21,*unit26,unit30,*unit30
+20191011 *unit11,*unit22,*unit27,*unit29,*unit30
+20191012 *unit12,*unit28
+20191013 *unit13,*unit23,*unit30
+20191014 *unit14,*unit29
+20191015 *unit15,*unit24
+20191016 *unit16,*unit30
+20191017 *unit17,*unit25
+20191018 *unit18,*unit26
+20191019 *unit19,*unit27
+20191020 *unit20,*unit28
+20191021 *unit21
+20191022 *unit22,*unit29
+20191023 
+20191024 *unit23,*unit30
+20191025 
+20191026 *unit24
+20191027 
+20191028 *unit25
+20191029 *unit26
+20191030 *unit27
+20191031 *unit28
+20191101 
+20191102 *unit29
+20191103 
+20191104 *unit30
